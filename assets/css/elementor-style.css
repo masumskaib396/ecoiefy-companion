@@ -1,0 +1,37 @@
+.elementor-panel .elementor-element .icon i.ecoiefy{
+    position: relative;
+}
+
+.elementor-panel .elementor-element .icon i.ecoiefy:after {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    content: "E";
+    font-size: 12px;
+    font-weight: 700;
+    background-color: #84C54F;
+    border-radius: 50%;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    line-height: 21px;
+    color: #222;
+}
+
+
+
+/*sakib style*/
+.efy_single_galley {
+    height: 350px;
+}
+.efy_single_galley a.efy_zoom_gallery img {
+    height: 100% !important;
+    object-fit: cover;
+    object-position: center top;
+}
+
+/* gallery css */
+
+.watch-gallery-nav ul li{
+    cursor: pointer;
+}
